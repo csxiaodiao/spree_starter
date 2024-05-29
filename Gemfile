@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # ruby File.read('.ruby-version').strip.to_s
-ruby(File.read(File.expand_path(".ruby-version", __dir__)))
+"3.3.0"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3"
 
